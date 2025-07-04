@@ -1,5 +1,4 @@
 streamlit==1.35.0
-tensorflow==2.11.0
-deepxde==1.8.0
-scikit-learn==1.0.2
-numpy==1.21.4
+scikit-learn
+numpy
+pandas
